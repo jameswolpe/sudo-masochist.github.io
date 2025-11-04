@@ -12,14 +12,20 @@ website:
     #logo: images/test_gig.gif
     right:
       #- about.qmd
-      - icon: github
-        href: https://github.com/sudo-masochist/
+      - icon: substack
+        href: https://sudomasochist.substack.com/
         target: _blank
       - icon: reddit
         href: https://www.reddit.com/user/sudo_masochist/
         target: _blank
-      - icon: substack
-        href: https://sudomasochist.substack.com/
+      - icon: github
+        href: https://github.com/sudo-masochist/
+        target: _blank
+      - icon: twitter
+        href: https://twitter.com/sudo_masochist
+        target: _blank
+      - icon: instagram
+        href: https://www.instagram.com/sudo_masochist/
         target: _blank
 format:
   html:
